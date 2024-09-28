@@ -4,3 +4,4 @@ for(let a=0;a<3;a++){
 sum+=arr[a];
 }
 console.log(sum)
+alert(1)
